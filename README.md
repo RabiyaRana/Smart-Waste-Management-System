@@ -31,9 +31,9 @@ This project helped us strengthen our understanding of:
 - Sequential vs combinational circuit behaviour
 - Structuring a large multi-block circuit in LogicWorks
 - Team collaboration and version control using GitHub
-## 👥 Team Members
-Rabiya Rana
-Javeria Yasin 
+## 👥 Team Members:
+-Rabiya Rana
+-Javeria Yasin 
 ## 🔌 Inputs & Outputs
 **Inputs:**
 | Signal | Description |
@@ -117,12 +117,12 @@ All 7 test cases verified in LogicWorks simulation:
 | SR Latch memory | Sensor off mid-drop | Door stays open until DEPOSIT_DONE | ✅ Pass |
 ## ▶️ How to Open the Circuit
 1. Make sure **LogicWorks 5** is properly installed on your system.
-2. Clone the repository:
-   git clone https://github.com/your-repo-link-here.git
-3. Open `circuits/smart-waste-segregation.cct` in LogicWorks
-4. Use the toggle switches on the left to simulate sensor inputs
-5. Flip `M` to switch between automatic and manual mode
-6. Press `DEPOSIT_DONE` after waste drops to reset the SR latch and close the door
+2. Clone the repository:https:
+3. //github.com/RabiyaRana/Smart-Waste-Management-System.git
+4. Open `circuits/smart-waste-segregation.cct` in LogicWorks
+5. Use the toggle switches on the left to simulate sensor inputs
+6. Flip `M` to switch between automatic and manual mode
+7. Press `DEPOSIT_DONE` after waste drops to reset the SR latch and close the door
 ## 📂 Repository Structure
 📁 smart-waste-segregation/
 ├── 📄 README.md
